@@ -3,5 +3,9 @@ Mercenary Band
 Changelog
 ==============
 
+v 1.0.0
+--> Port to 1.18.x and 1.20.x
+--> added 
+
 v 0.9.5
 --> Add-on version Wesnoth 1.16.x
