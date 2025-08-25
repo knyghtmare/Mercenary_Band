@@ -1,0 +1,7 @@
+Mercenary Band
+==============
+Changelog
+==============
+
+v 0.9.5
+--> Add-on version Wesnoth 1.16.x
