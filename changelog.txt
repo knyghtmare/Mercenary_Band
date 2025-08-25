@@ -5,7 +5,8 @@ Changelog
 
 v 1.0.0
 --> Port to 1.18.x and 1.20.x
---> added 
+--> S11: scenario is now for 3 days (as intended) and not 4 days
+--> 
 
 v 0.9.5
 --> Add-on version Wesnoth 1.16.x
